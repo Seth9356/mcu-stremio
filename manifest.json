@@ -1,0 +1,28 @@
+{
+  "id": "com.example.mcu.static.github",
+  "version": "5.0.0",
+  "name": "MCU Complete — Release Order",
+  "description": "MCU movies and TV seasons in actual release order. Static catalog/metadata only; no streams.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "mcu_release_order",
+      "name": "MCU Complete — Release Order"
+    },
+    {
+      "type": "series",
+      "id": "mcu_release_order_tv",
+      "name": "MCU Complete — Release Order (TV)"
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}

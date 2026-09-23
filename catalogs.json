@@ -1,0 +1,14 @@
+{
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "mcu_release_order",
+      "name": "MCU Complete — Release Order"
+    },
+    {
+      "type": "series",
+      "id": "mcu_release_order_tv",
+      "name": "MCU Complete — Release Order (TV)"
+    }
+  ]
+}
